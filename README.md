@@ -7,4 +7,5 @@ GitHub Pages ilə yayımlanır: https://elmanabdulmanafov.github.io/zirve-site/
 - `gizlilik.html` — Gizlilik Siyasəti
 - `sertler.html` — İstifadə Şərtləri
 
-Mənbə: `pmp Application/site/` qovluğu. Dəyişiklik oradan bura kopyalanır; `main`-ə push olunan kimi Actions saytı yenidən yayımlayır.
+Mənbə: `pmp Application/site/` qovluğu. Dəyişiklik oradan bura kopyalanır; `main`-ə push olunan kimi
+Actions (`.github/workflows/pages.yml`) saytı yenidən yayımlayır. Pages mənbəyi: Settings → Pages → GitHub Actions.
